@@ -1,0 +1,165 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1701279606883,1320,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-2,text,true,,1557441,1457,6,6,https://www.webstaurantstore.com/outlet.html,529,0,408
+1701279606883,539,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-2,,true,,910,605,6,6,https://www.webstaurantstore.com/outlet,529,0,408
+1701279607429,774,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-2,text,true,,1556531,852,6,6,https://www.webstaurantstore.com/outlet.html,568,0,0
+1701279607218,1204,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-3,text,true,,1557457,1457,6,6,https://www.webstaurantstore.com/outlet.html,194,0,77
+1701279607218,204,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-3,,true,,910,605,6,6,https://www.webstaurantstore.com/outlet,194,0,77
+1701279607429,993,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-3,text,true,,1556547,852,6,6,https://www.webstaurantstore.com/outlet.html,702,0,0
+1701279606617,1877,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-1,text,true,,1557450,1457,6,6,https://www.webstaurantstore.com/outlet.html,793,0,673
+1701279606617,803,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-1,,true,,910,605,6,6,https://www.webstaurantstore.com/outlet,793,0,673
+1701279607429,1065,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-1,text,true,,1556540,852,6,6,https://www.webstaurantstore.com/outlet.html,727,0,0
+1701279607551,1005,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-4,text,true,,1557435,1457,7,7,https://www.webstaurantstore.com/outlet.html,198,0,66
+1701279607551,198,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-4,,true,,910,605,7,7,https://www.webstaurantstore.com/outlet,198,0,66
+1701279607751,805,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-4,text,true,,1556525,852,7,7,https://www.webstaurantstore.com/outlet.html,590,0,0
+1701279607869,1010,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-5,text,true,,1557428,1457,8,8,https://www.webstaurantstore.com/outlet.html,186,0,67
+1701279607869,186,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-5,,true,,910,605,8,8,https://www.webstaurantstore.com/outlet,186,0,67
+1701279608055,824,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-5,text,true,,1556518,852,8,8,https://www.webstaurantstore.com/outlet.html,559,0,0
+1701279608204,950,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-6,text,true,,1557427,1457,8,8,https://www.webstaurantstore.com/outlet.html,224,0,102
+1701279608204,224,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-6,,true,,910,605,8,8,https://www.webstaurantstore.com/outlet,224,0,102
+1701279608428,726,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-6,text,true,,1556517,852,8,8,https://www.webstaurantstore.com/outlet.html,540,0,0
+1701279608533,993,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-7,text,true,,1557450,1457,9,9,https://www.webstaurantstore.com/outlet.html,213,0,53
+1701279608533,213,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-7,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,213,0,53
+1701279608747,779,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-7,text,true,,1556540,852,9,9,https://www.webstaurantstore.com/outlet.html,570,0,0
+1701279608863,1055,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-8,text,true,,1557451,1457,9,9,https://www.webstaurantstore.com/outlet.html,191,0,74
+1701279608863,191,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-8,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,191,0,74
+1701279609055,863,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-8,text,true,,1556541,852,9,9,https://www.webstaurantstore.com/outlet.html,675,0,0
+1701279609199,1052,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-9,text,true,,1557457,1457,9,9,https://www.webstaurantstore.com/outlet.html,195,0,70
+1701279609199,195,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-9,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,195,0,70
+1701279609394,857,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-9,text,true,,1556547,852,9,9,https://www.webstaurantstore.com/outlet.html,636,0,0
+1701279636213,338,https://www.webstaurantstore.com/outlet.html?category=65513,200,OK,Thread Group 1-3,text,true,,319994,874,9,9,https://www.webstaurantstore.com/outlet.html?category=65513,272,0,0
+1701279635878,698,https://www.webstaurantstore.com/outlet.html?category=47649,200,OK,Thread Group 1-2,text,true,,489969,874,9,9,https://www.webstaurantstore.com/outlet.html?category=47649,582,0,0
+1701279635547,1175,https://www.webstaurantstore.com/outlet.html?category=13581,200,OK,Thread Group 1-1,text,true,,813307,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13581,960,0,0
+1701279640544,431,https://www.webstaurantstore.com/outlet.html?category=13581,200,OK,Thread Group 1-4,text,true,,813308,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13581,306,0,0
+1701279645197,353,https://www.webstaurantstore.com/outlet.html?category=13463,200,OK,Thread Group 1-6,text,true,,263986,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13463,300,0,0
+1701279644863,814,https://www.webstaurantstore.com/outlet.html?category=13387,200,OK,Thread Group 1-5,text,true,,865725,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13387,636,0,0
+1701279649528,514,https://www.webstaurantstore.com/outlet.html?category=13949,200,OK,Thread Group 1-7,text,true,,978126,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13949,368,0,0
+1701279650231,285,https://www.webstaurantstore.com/outlet.html?category=13283,200,OK,Thread Group 1-9,text,true,,281542,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13283,232,0,0
+1701279649857,719,https://www.webstaurantstore.com/outlet.html?category=13387,200,OK,Thread Group 1-8,text,true,,865740,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13387,491,0,0
+1701279670979,405,https://www.webstaurantstore.com/outlet/575SHT4D/63685.html,200,OK,Thread Group 1-1,text,true,,250353,874,9,9,https://www.webstaurantstore.com/outlet/575SHT4D/63685.html,351,0,73
+1701279606543,3457,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,2621110,3205,9,9,null,2104,61383,746
+1701279671311,395,https://www.webstaurantstore.com/outlet/185DP93HC/65539.html,200,OK,Thread Group 1-2,text,true,,293286,875,9,9,https://www.webstaurantstore.com/outlet/185DP93HC/65539.html,323,0,77
+1701279606877,2413,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,2340696,3206,9,9,null,1434,62417,485
+1701279671644,380,https://www.webstaurantstore.com/outlet/991CDA64GYPL/65163.html,200,OK,Thread Group 1-3,text,true,,236314,878,9,9,https://www.webstaurantstore.com/outlet/991CDA64GYPL/65163.html,348,0,90
+1701279607211,1922,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,2113765,3209,9,9,null,814,62893,167
+1701279675978,452,https://www.webstaurantstore.com/outlet/4806110/61927.html,200,OK,Thread Group 1-4,text,true,,213048,873,9,9,https://www.webstaurantstore.com/outlet/4806110/61927.html,416,0,69
+1701279607544,1888,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,2583791,3204,9,9,null,920,67000,135
+1701279680294,368,https://www.webstaurantstore.com/outlet/189BVAC28HC/65581.html,200,OK,Thread Group 1-5,text,true,,290598,877,9,9,https://www.webstaurantstore.com/outlet/189BVAC28HC/65581.html,302,0,63
+1701279607862,2192,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,2713751,3208,9,9,null,1124,70611,130
+1701279680635,466,https://www.webstaurantstore.com/outlet/305GUF27PD/65523.html,200,OK,Thread Group 1-6,text,true,,211110,876,9,9,https://www.webstaurantstore.com/outlet/305GUF27PD/65523.html,390,0,61
+1701279608198,1769,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,2032523,3207,9,9,null,914,71138,163
+1701279684959,403,https://www.webstaurantstore.com/outlet/890TDD3HC/65629.html,200,OK,Thread Group 1-7,text,true,,274610,875,9,9,https://www.webstaurantstore.com/outlet/890TDD3HC/65629.html,353,0,72
+1701279608527,1910,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,2810186,3206,9,9,null,934,74927,125
+1701279685298,494,https://www.webstaurantstore.com/outlet/224BCD48SW/65773.html,200,OK,Thread Group 1-8,text,true,,251292,876,9,9,https://www.webstaurantstore.com/outlet/224BCD48SW/65773.html,457,0,84
+1701279608858,2268,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,2674483,3207,9,9,null,1139,74667,158
+1701279685625,536,https://www.webstaurantstore.com/outlet/415C80BAJADA/65741.html,200,OK,Thread Group 1-9,text,true,,267463,878,9,9,https://www.webstaurantstore.com/outlet/415C80BAJADA/65741.html,499,0,68
+1701279609191,1873,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,2106462,3209,9,9,null,926,75099,138
+1701279702550,1448,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-1,text,true,,1555974,1457,9,9,https://www.webstaurantstore.com/outlet.html,115,0,0
+1701279702550,115,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-1,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,115,0,0
+1701279702668,1330,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-1,text,true,,1555064,852,9,9,https://www.webstaurantstore.com/outlet.html,966,0,0
+1701279702882,1212,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-2,text,true,,1555979,1457,9,9,https://www.webstaurantstore.com/outlet.html,118,0,0
+1701279702882,118,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-2,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,118,0,0
+1701279703002,1092,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-2,text,true,,1555069,852,9,9,https://www.webstaurantstore.com/outlet.html,696,0,0
+1701279703216,992,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-3,text,true,,1555974,1457,9,9,https://www.webstaurantstore.com/outlet.html,101,0,0
+1701279703216,101,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-3,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,101,0,0
+1701279703318,890,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-3,text,true,,1555064,852,9,9,https://www.webstaurantstore.com/outlet.html,582,0,0
+1701279707549,1128,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-4,text,true,,1555959,1457,9,9,https://www.webstaurantstore.com/outlet.html,101,0,0
+1701279707549,101,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-4,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,101,0,0
+1701279707651,1026,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-4,text,true,,1555049,852,9,9,https://www.webstaurantstore.com/outlet.html,799,0,0
+1701279711876,1100,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-5,text,true,,1555972,1457,9,9,https://www.webstaurantstore.com/outlet.html,144,0,0
+1701279711876,144,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-5,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,144,0,0
+1701279712021,955,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-5,text,true,,1555062,852,9,9,https://www.webstaurantstore.com/outlet.html,615,0,0
+1701279712203,1029,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-6,text,true,,1555951,1457,9,9,https://www.webstaurantstore.com/outlet.html,122,0,0
+1701279712203,122,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-6,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,122,0,0
+1701279712327,905,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-6,text,true,,1555041,852,9,9,https://www.webstaurantstore.com/outlet.html,552,0,0
+1701279716532,1035,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-7,text,true,,1555986,1457,9,9,https://www.webstaurantstore.com/outlet.html,129,0,0
+1701279716532,129,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-7,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,129,0,0
+1701279716662,905,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-7,text,true,,1555076,852,9,9,https://www.webstaurantstore.com/outlet.html,590,0,0
+1701279716864,963,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-8,text,true,,1555975,1457,9,9,https://www.webstaurantstore.com/outlet.html,111,0,0
+1701279716864,111,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-8,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,111,0,0
+1701279716975,852,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-8,text,true,,1555065,852,9,9,https://www.webstaurantstore.com/outlet.html,534,0,0
+1701279717197,983,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-9,text,true,,1555986,1457,9,9,https://www.webstaurantstore.com/outlet.html,126,0,0
+1701279717197,126,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-9,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,126,0,0
+1701279717324,856,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-9,text,true,,1555076,852,9,9,https://www.webstaurantstore.com/outlet.html,512,0,0
+1701279743877,463,https://www.webstaurantstore.com/outlet.html?category=42385,200,OK,Thread Group 1-2,text,true,,532921,874,9,9,https://www.webstaurantstore.com/outlet.html?category=42385,321,0,72
+1701279743546,838,https://www.webstaurantstore.com/outlet.html?category=13949,200,OK,Thread Group 1-1,text,true,,978139,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13949,547,0,54
+1701279744212,431,https://www.webstaurantstore.com/outlet.html?category=24767,200,OK,Thread Group 1-3,text,true,,387837,874,9,9,https://www.webstaurantstore.com/outlet.html?category=24767,344,0,82
+1701279748575,556,https://www.webstaurantstore.com/outlet.html?category=13765,200,OK,Thread Group 1-4,text,true,,906703,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13765,418,0,58
+1701279752863,383,https://www.webstaurantstore.com/outlet.html?category=65583,200,OK,Thread Group 1-5,text,true,,274257,874,9,9,https://www.webstaurantstore.com/outlet.html?category=65583,335,0,60
+1701279753211,314,https://www.webstaurantstore.com/outlet.html?category=3513,200,OK,Thread Group 1-6,text,true,,166997,873,9,9,https://www.webstaurantstore.com/outlet.html?category=3513,290,0,70
+1701279757528,510,https://www.webstaurantstore.com/outlet.html?category=13249,200,OK,Thread Group 1-7,text,true,,704339,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13249,356,0,63
+1701279757860,531,https://www.webstaurantstore.com/outlet.html?category=13765,200,OK,Thread Group 1-8,text,true,,906703,874,9,9,https://www.webstaurantstore.com/outlet.html?category=13765,402,0,72
+1701279758193,387,https://www.webstaurantstore.com/outlet.html?category=65513,200,OK,Thread Group 1-9,text,true,,319996,874,9,9,https://www.webstaurantstore.com/outlet.html?category=65513,326,0,59
+1701279778978,619,https://www.webstaurantstore.com/outlet/890TDD2HC/65317.html,200,OK,Thread Group 1-1,text,true,,274134,875,9,9,https://www.webstaurantstore.com/outlet/890TDD2HC/65317.html,541,0,0
+1701279671386,2905,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,2808247,3206,9,9,null,1203,105308,54
+1701279779309,315,https://www.webstaurantstore.com/outlet/360HFF12HC/65475.html,200,OK,Thread Group 1-2,text,true,,254729,876,9,9,https://www.webstaurantstore.com/outlet/360HFF12HC/65475.html,267,0,0
+1701279671706,1990,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,2343629,3207,9,9,null,706,105929,72
+1701279779644,607,https://www.webstaurantstore.com/outlet/109PR103WT/64577.html,200,OK,Thread Group 1-3,text,true,,379083,876,9,9,https://www.webstaurantstore.com/outlet/109PR103WT/64577.html,493,0,0
+1701279672025,2030,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,2322894,3207,9,9,null,938,106199,82
+1701279783976,404,https://www.webstaurantstore.com/outlet/91547055/65477.html,200,OK,Thread Group 1-4,text,true,,211181,874,9,9,https://www.webstaurantstore.com/outlet/91547055/65477.html,324,0,0
+1701279676431,2088,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,2673843,3205,9,9,null,843,105862,58
+1701279788300,249,https://www.webstaurantstore.com/outlet/546MGSR2416/65627.html,200,OK,Thread Group 1-5,text,true,,194559,877,9,9,https://www.webstaurantstore.com/outlet/546MGSR2416/65627.html,225,0,0
+1701279680663,1732,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,2024788,3208,9,9,null,704,106153,60
+1701279788633,298,https://www.webstaurantstore.com/outlet/215EPPEL5/65903.html,200,OK,Thread Group 1-6,text,true,,363773,875,9,9,https://www.webstaurantstore.com/outlet/215EPPEL5/65903.html,241,0,0
+1701279681104,1641,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,2086721,3205,9,9,null,653,106185,70
+1701280431831,353,https://www.webstaurantstore.com/outlet/413C15E/64277.html,200,OK,Thread Group 1-7,text,true,,222189,873,9,9,https://www.webstaurantstore.com/outlet/413C15E/64277.html,339,0,41
+1701279685363,1898,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,2482514,3204,9,9,null,824,744923,104
+1701280432162,359,https://www.webstaurantstore.com/outlet/348PSM23MTR/65111.html,200,OK,Thread Group 1-8,text,true,,184494,877,9,9,https://www.webstaurantstore.com/outlet/348PSM23MTR/65111.html,347,0,60
+1701279685793,1853,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,2647172,3208,9,9,null,860,744875,132
+1701280432496,477,https://www.webstaurantstore.com/outlet/584MULTI548H/63097.html,200,OK,Thread Group 1-9,text,true,,221040,878,9,9,https://www.webstaurantstore.com/outlet/584MULTI548H/63097.html,440,0,53
+1701279686162,1847,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,2097022,3209,9,9,null,892,744965,112
+1701280432190,940,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-7,text,true,,1555974,1457,9,9,https://www.webstaurantstore.com/outlet.html,101,0,0
+1701280432190,101,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-7,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,101,0,0
+1701280432291,839,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-7,text,true,,1555064,852,9,9,https://www.webstaurantstore.com/outlet.html,658,0,0
+1701280432526,1206,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-8,text,true,,1555976,1457,9,9,https://www.webstaurantstore.com/outlet.html,405,0,0
+1701280432526,405,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-8,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,405,0,0
+1701280432932,800,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-8,text,true,,1555066,852,9,9,https://www.webstaurantstore.com/outlet.html,592,0,0
+1701280432981,871,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-9,text,true,,1555986,1457,9,9,https://www.webstaurantstore.com/outlet.html,102,0,0
+1701280432981,102,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-9,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,102,0,0
+1701280433083,769,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-9,text,true,,1555076,852,9,9,https://www.webstaurantstore.com/outlet.html,575,0,0
+1701280449422,1243,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-1,text,true,,1555982,1457,9,9,https://www.webstaurantstore.com/outlet.html,188,0,86
+1701280449422,188,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-1,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,188,0,86
+1701280449611,1054,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-1,text,true,,1555072,852,9,9,https://www.webstaurantstore.com/outlet.html,742,0,0
+1701280449753,1211,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-2,text,true,,1555975,1457,9,9,https://www.webstaurantstore.com/outlet.html,174,0,62
+1701280449753,174,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-2,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,174,0,62
+1701280449930,1034,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-2,text,true,,1555065,852,9,9,https://www.webstaurantstore.com/outlet.html,713,0,0
+1701280450087,1135,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-3,text,true,,1555958,1457,9,9,https://www.webstaurantstore.com/outlet.html,184,0,81
+1701280450087,184,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-3,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,184,0,81
+1701280450272,950,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-3,text,true,,1555048,852,9,9,https://www.webstaurantstore.com/outlet.html,701,0,0
+1701280454420,1131,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-4,text,true,,1555960,1457,9,9,https://www.webstaurantstore.com/outlet.html,197,0,58
+1701280454420,197,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-4,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,197,0,58
+1701280454618,933,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-4,text,true,,1555050,852,9,9,https://www.webstaurantstore.com/outlet.html,634,0,0
+1701280455682,339,https://www.webstaurantstore.com/outlet.html?category=57769,200,OK,Thread Group 1-1,text,true,,314042,874,9,9,https://www.webstaurantstore.com/outlet.html?category=57769,291,0,0
+1701280455988,301,https://www.webstaurantstore.com/outlet.html?category=48573,200,OK,Thread Group 1-2,text,true,,314980,874,9,9,https://www.webstaurantstore.com/outlet.html?category=48573,265,0,0
+1701280456241,308,https://www.webstaurantstore.com/outlet.html?category=24767,200,OK,Thread Group 1-3,text,true,,387835,874,9,9,https://www.webstaurantstore.com/outlet.html?category=24767,250,0,0
+1701280458740,1094,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-5,text,true,,1555973,1457,9,9,https://www.webstaurantstore.com/outlet.html,223,0,104
+1701280458740,223,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-5,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,223,0,104
+1701280458964,870,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-5,text,true,,1555063,852,9,9,https://www.webstaurantstore.com/outlet.html,661,0,0
+1701280459077,955,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-6,text,true,,1555975,1457,9,9,https://www.webstaurantstore.com/outlet.html,166,0,54
+1701280459077,166,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-6,,true,,910,605,9,9,https://www.webstaurantstore.com/outlet,166,0,54
+1701280459243,789,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-6,text,true,,1555065,852,9,9,https://www.webstaurantstore.com/outlet.html,584,0,0
+1701280460563,225,https://www.webstaurantstore.com/outlet.html?category=26671,200,OK,Thread Group 1-4,text,true,,166900,874,9,9,https://www.webstaurantstore.com/outlet.html?category=26671,198,0,0
+1701280464845,389,https://www.webstaurantstore.com/outlet.html?category=4147,200,OK,Thread Group 1-5,text,true,,779636,873,9,9,https://www.webstaurantstore.com/outlet.html?category=4147,276,0,0
+1701280465058,233,https://www.webstaurantstore.com/outlet.html?category=2687,200,OK,Thread Group 1-6,text,true,,166527,873,9,9,https://www.webstaurantstore.com/outlet.html?category=2687,196,0,0
+1701280473185,236,https://www.webstaurantstore.com/outlet.html?category=47665,200,OK,Thread Group 1-7,text,true,,167483,874,9,9,https://www.webstaurantstore.com/outlet.html?category=47665,207,0,0
+1701280432184,1176,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,1723457,2331,9,9,null,308,40064,0
+1701280473521,673,https://www.webstaurantstore.com/outlet.html?category=48565,200,OK,Thread Group 1-8,text,true,,165962,874,8,8,https://www.webstaurantstore.com/outlet.html?category=48565,633,0,0
+1701280473976,254,https://www.webstaurantstore.com/outlet.html?category=13665,200,OK,Thread Group 1-9,text,true,,205739,874,8,8,https://www.webstaurantstore.com/outlet.html?category=13665,227,0,0
+1701280491114,249,https://www.webstaurantstore.com/outlet/89717532184V/64825.html,200,OK,Thread Group 1-1,text,true,,247793,878,8,8,https://www.webstaurantstore.com/outlet/89717532184V/64825.html,210,0,0
+1701279779598,1831,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,2117817,3209,8,8,null,689,709934,86
+1701280491420,302,https://www.webstaurantstore.com/outlet/690FGSR14PLSS/65819.html,200,OK,Thread Group 1-2,text,true,,271015,879,7,7,https://www.webstaurantstore.com/outlet/690FGSR14PLSS/65819.html,261,0,0
+1701279779625,1814,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,2141970,3210,7,7,null,700,710284,62
+1701280491674,397,https://www.webstaurantstore.com/outlet/109PR103WT/64577.html,200,OK,Thread Group 1-3,text,true,,379085,876,6,6,https://www.webstaurantstore.com/outlet/109PR103WT/64577.html,320,0,0
+1701279780255,1840,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,2322878,3207,6,6,null,754,709977,81
+1701280496027,285,https://www.webstaurantstore.com/outlet/178SSWD2R/65527.html,200,OK,Thread Group 1-4,text,true,,292771,875,5,5,https://www.webstaurantstore.com/outlet/178SSWD2R/65527.html,232,0,0
+1701279784381,1641,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,2015631,3206,5,5,null,627,710290,58
+1701280500285,311,https://www.webstaurantstore.com/outlet/495NOWFU3FDV/65791.html,200,OK,Thread Group 1-5,text,true,,279411,878,4,4,https://www.webstaurantstore.com/outlet/495NOWFU3FDV/65791.html,249,0,0
+1701279788550,1794,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,2615020,3208,4,4,null,748,710255,104
+1701280500494,467,https://www.webstaurantstore.com/outlet/92268129/65165.html,200,OK,Thread Group 1-6,text,true,,223010,874,3,3,https://www.webstaurantstore.com/outlet/92268129/65165.html,433,0,0
+1701279788932,1655,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,1945512,3204,3,3,null,795,710375,54
+1701280504956,338,https://www.webstaurantstore.com/outlet/520KB310SSWM/65583.html,200,OK,Thread Group 1-8,text,true,,255705,878,2,2,https://www.webstaurantstore.com/outlet/520KB310SSWM/65583.html,304,0,60
+1701280432521,2217,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,1977643,3209,2,2,null,1342,70556,60
+1701280505409,371,https://www.webstaurantstore.com/outlet/178CBE84HC/65937.html,200,OK,Thread Group 1-9,text,true,,257169,876,1,1,https://www.webstaurantstore.com/outlet/178CBE84HC/65937.html,337,0,65
+1701280432974,1496,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,2018894,3207,1,1,null,666,71311,65
+1701280505787,2212,https://www.webstaurantstore.com/outlet,200,OK,Thread Group 1-9,text,true,,1555967,1457,1,1,https://www.webstaurantstore.com/outlet.html,102,0,0
+1701280505787,102,https://www.webstaurantstore.com/outlet-0,301,Moved Permanently,Thread Group 1-9,,true,,910,605,1,1,https://www.webstaurantstore.com/outlet,102,0,0
+1701280505890,2109,https://www.webstaurantstore.com/outlet-1,200,OK,Thread Group 1-9,text,true,,1555057,852,1,1,https://www.webstaurantstore.com/outlet.html,1688,0,0
